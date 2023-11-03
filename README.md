@@ -6,7 +6,7 @@ Este é um programa de calculadora simples que permite ao usuário realizar oper
 
 ## Funcionalidades
 
-- **Entrada de Valores:** Aceita a entrada de dois valores inteiros, podendo ser números inteiros ou decimais.
+- **Entrada de Valores:** Aceita a entrada de dois valores, podendo ser números inteiros ou decimais.
 - **Operações Suportadas:** Realiza as quatro operações matemáticas básicas: adição, subtração, multiplicação e divisão.
 - **Formato de Resultado:** Apresenta o resultado no formato inteiro, com arredondamento e separador de milhar, seguindo as convenções brasileiras.
 - **Histórico:** Mantém um histórico das operações realizadas para referência futura.
